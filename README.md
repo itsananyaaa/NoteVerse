@@ -15,3 +15,7 @@ Another key feature is drag-and-drop reordering. Users can click and drag notes 
 From a design perspective, the user interface uses a dark-toned background for focus and elegance, with carefully chosen button styles and typography to maintain a professional aesthetic. All interactions are handled on the frontend, with no backend or database. The application runs entirely in the browser and does not require installation or internet connectivity once loaded.
 
 NotesVerse is lightweight, fast, and functional — making it an ideal productivity companion for students, professionals, or anyone who wants to stay organized with a clean digital note-taking experience.
+
+This project is intended for educational and academic purposes.
+
+© 2025 Ananya Biju. All Rights Reserved.
