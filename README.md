@@ -18,4 +18,6 @@ NotesVerse is lightweight, fast, and functional — making it an ideal productiv
 
 This project is intended for educational and academic purposes.
 
+This project vwas submitted as a part of SEP projectwork.
+
 © 2025 Ananya Biju. All Rights Reserved.
